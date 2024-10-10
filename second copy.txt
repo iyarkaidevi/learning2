@@ -1,0 +1,6 @@
+orange
+fruits
+cow
+chickens
+dog
+cats
